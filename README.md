@@ -1,0 +1,2 @@
+# SWCustomProperties
+test
